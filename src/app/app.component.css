@@ -1,0 +1,30 @@
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+}
+
+.operant {
+    margin: auto;
+    width: 10%;
+    border: 1px solid #58FAD0;
+    padding: 10px;
+}
+
+button {
+    background-color: #58FAD0;
+}
+
+.errorInput {
+    color: red;
+} 
+
+#triangle-topleft {
+	width: 0;
+	height: 0;
+	border-top: 100px solid #58FAD0; 
+	border-right: 100px solid transparent;			
+}
+
+h1{
+    -webkit-text-stroke: 0.065mm #58FAD0;
+}
